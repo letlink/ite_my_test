@@ -1,0 +1,23 @@
+#include <assert.h>
+
+/* widgets:
+listLayer
+circleCtrlBackground
+ScrollMediaFileListBox
+ScrollMediaFileListBoxText
+FileListBoxText
+FileListBox
+ScrollIconListBoxText
+ScrollIconListBox16
+ScrollListBoxText
+listBackground1
+Background9
+Background8
+Background7
+Background6
+Background20
+dataValScrollListBox
+dataNameScrollListBox
+gotoMainButton
+*/
+

@@ -1,0 +1,36 @@
+#include <assert.h>
+
+/* widgets:
+smartHomeLayer
+airConBackground
+smartHomeDevice4Background
+smartHomeDev4InfoContainer
+Text29
+ScrollText30
+Text31
+smartHomeDev4SetButton
+Icon30
+smartHomeDevice3Background
+smartHomeDev3InfoContainer
+Text23
+ScrollText24
+Text26
+smartHomeDev3SetButton
+Icon29
+smartHomeDevice2Background
+smartHomeDev2InfoContainer
+Text19
+ScrollText20
+Text21
+smartHomeDev2SetButton
+Icon28
+smartHomeDevice1Background
+smartHomeDev1InfoContainer
+samrtHomeDev1NameText
+samrtHomeDev1StaText
+samrtHomeDev1StaTitleText
+smartHomeDev1SetButton
+airConIcon
+gotoMainButton
+*/
+
